@@ -1,6 +1,9 @@
 # MCS
 Related Zenodo homepage: https://doi.org/10.5281/zenodo.6521931
 
+We have updated our docker image (```anonymousmcs/mcs_image:v1```) on dockerhub for researchers to run all experiments in the paper.
+For more details, please refer to ```/data/code/readme.txt``` in the image.
+
 It cantains two major parts: experiment data(in `data`) and source code(in `src`).
 
 - [MCS](#mcs)
